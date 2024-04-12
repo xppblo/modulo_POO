@@ -1,6 +1,15 @@
 from personaje import Personaje
 import random
 
+#Integrantes del Grupo 2:
+# - Najla Gatica
+# - Livio Gutierrez
+# - Pablo Hernández
+# - Manuel Ruiz
+# - Edison Ahumada
+
+# Clase Juego
+
 class Juego:
     def __init__(self, jugador: Personaje, orco: Personaje):
         self.jugador = jugador
