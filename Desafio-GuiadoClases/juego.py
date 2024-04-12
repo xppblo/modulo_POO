@@ -6,7 +6,7 @@ import random
 # - Livio Gutierrez
 # - Pablo Hernández
 # - Manuel Ruiz
-# - Edison Ahumada
+# - Edinson Ahumada
 
 # Clase Juego
 
