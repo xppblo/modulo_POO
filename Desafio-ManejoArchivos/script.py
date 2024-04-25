@@ -23,7 +23,7 @@ def cargar_usuarios(archivo):
                 lista_usuarios.append(usuario)
             except Exception as e:
                 escribir_error(f"ERROR en la linea {numero_linea}: {e}")
-            numero_linea += 1 #se agrega una linea más
+            numero_linea += 1 #aumenta el contador de lineas
     return lista_usuarios
 
 usuarios = cargar_usuarios("Desafio-ManejoArchivos/usuarios.txt")
