@@ -43,7 +43,4 @@ class Campania():
         return Social()
     
     def __str__(self) -> str:
-        return """
-        Nombre de la campaña:
-        Anuncios:
-        """
+        return "Nombre de la campaña:\nAnuncios:"
